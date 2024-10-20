@@ -1,0 +1,18 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/app/debug.keystore
+
+# iOS
+ios/Pods/
+flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Firebase keys
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
